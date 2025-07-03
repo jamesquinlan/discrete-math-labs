@@ -10,7 +10,7 @@ These papers are available for free and can be accessed online.
 [[2]](greenberg2019teaching.pdf) Greenberg, M., & Osborn, J. C. (2019). Teaching discrete mathematics to early undergraduates with software foundations. In Proc. 5th Intl. Workshop on Coq for Programming Languages (CoqPL 2019).
 
 
-[[3]](3626253.3633405.pdf)   Kumar, A. N., & Raj, R. K. (2024, March). Computer Science Curricula 2023 (CS2023): The Final Report. In _Proceedings of the 55th ACM Technical Symposium on Computer Science Education_ V. 2 (pp. 1867-1868).
+[[3]](kumar2024computer.pdf)   Kumar, A. N., & Raj, R. K. (2024, March). Computer Science Curricula 2023 (CS2023): The Final Report. In _Proceedings of the 55th ACM Technical Symposium on Computer Science Education_ V. 2 (pp. 1867-1868).
 
 
 [[4]](liu2021discrete.pdf) Liu, Y. A., & Castellana, M. (2021, March). Discrete math with programming: A principled approach. In Proceedings of the 52nd ACM Technical Symposium on Computer Science Education (pp. 1156-1162).
