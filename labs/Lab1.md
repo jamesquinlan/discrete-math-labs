@@ -319,11 +319,11 @@ print(f"Is 8 odd? {isodd(8)}")
 
 1.  Calculate the area of a triangle with a base 6 and a height 4.
 
-1.  Write code that prints "Even" if a number is even and "Odd" if it's odd.  Test with `x = 7` and `x = 12`.
+2.  Write code that prints "Even" if a number is even and "Odd" if it's odd.  Test with `x = 7` and `x = 12`.
 
-1. Print every third number from 1 to 20. *Expected output*: 1, 4, 7, 10, 13, 16, 19
+3. Print every third number from 1 to 20. *Expected output*: 1, 4, 7, 10, 13, 16, 19
 
-1. Create a simple dice rolling program that rolls two dice and prints their sum
+4. Create a simple dice rolling program that rolls two dice and prints their sum
 	
 	```
 	import random
@@ -331,26 +331,26 @@ print(f"Is 8 odd? {isodd(8)}")
 
 
 
-1. Write a function that returns the factorial of a number. Example: factorial(4) should return 24 i.e., (4 * 3 * 2 * 1)
+5. Write a function that returns the factorial of a number. Example: factorial(4) should return 24 i.e., (4 * 3 * 2 * 1)
 
 	```
 	def factorial(n):
    	    # your code here
    ```
 
-1. Write a function that determines if a positive integer is prime.
+6. Write a function that determines if a positive integer is prime.
 
-1. Write a function that lists all primes less than or equal to a given positive integer.
-
-
-1. Use a loop and the above function to determine whether $2^p - 1$ is prime for each prime not exceeding 100.
+7. Write a function that lists all primes less than or equal to a given positive integer.
 
 
-1. (Challenge) Show that $n^2 + n + 41$ is prime for all integers $n$ with $0 \le n \le 39$, but is not prime when $n = 40$.  Is there a polynomial in $n$ with integer coefficients and a degree greater than zero that always takes on a prime value when $n$ is a positive integer?
+8. Use a loop and the above function to determine whether $2^p - 1$ is prime for each prime not exceeding 100.
+
+
+9. (Challenge) Show that $n^2 + n + 41$ is prime for all integers $n$ with $0 \le n \le 39$, but is not prime when $n = 40$.  Is there a polynomial in $n$ with integer coefficients and a degree greater than zero that always takes on a prime value when $n$ is a positive integer?
 
 
 
-1. (Challenge) Find all pseudoprimes to the base 2, composite integers $n$ such that $2^{n-1} \equiv 1 \,(mod\ n)$, where $n$ does not exceed 10000.
+10. (Challenge) Find all pseudoprimes to the base 2, composite integers $n$ such that $2^{n-1} \equiv 1 \,(mod\ n)$, where $n$ does not exceed 10000.
 
 
 
@@ -359,7 +359,8 @@ print(f"Is 8 odd? {isodd(8)}")
  FOOTER 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 -->
+
 <div style="border-top: 1px solid #ccc;padding:0px 0px 20px 0px;"></div>
 <i style="padding-left:0px;">
-Last modified  Thu, Jul 03 2025 01:20:32 PM EDT
+Last modified  Thu, July 25, 2025 03:47:16 PM EDT
 </i>  
