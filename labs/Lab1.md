@@ -353,7 +353,7 @@ print(f"Is 8 odd? {isodd(8)}")
 10. (Challenge) Find all pseudoprimes to the base 2, composite integers $n$ such that $2^{n-1} \equiv 1 \,(mod\ n)$, where $n$ does not exceed 10000.
 
 
-
+--
 <!-- 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ 
  FOOTER 
