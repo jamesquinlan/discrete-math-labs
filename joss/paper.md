@@ -1,4 +1,3 @@
-
 ---
 title: 'Computational Labs for Discrete Mathematics in Python and Julia'
 tags:
@@ -6,16 +5,16 @@ tags:
   - Julia
   - discrete mathematics
   - CS curriculum
- authors:
+authors:
   - name: James Quinlan
     orcid: 0000-0002-2628-1651
     affiliation: 1
-  affiliations:
- - name: Department of Computer Science, University of Southern Maine
-   index: 1
+affiliations:
+  - name: Department of Computer Science, University of Southern Maine
+    index: 1
 date: 03 April 2026
-bibliography: paper.bib
-
+bibliography: joss/paper.bib
+---
 
 
 ## Summary
