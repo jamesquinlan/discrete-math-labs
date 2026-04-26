@@ -1,12 +1,15 @@
 name: Draft PDF
-on: [push]
+on:
+  push:
+    paths:
+      - joss/paper.md
+      - joss/paper.bib
+      - .github/workflows/draft-pdf.yml
 
 jobs:
   paper:
     runs-on: ubuntu-latest
     name: Paper Draft
-    env:
-      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -19,4 +22,4 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: paper
-          path: paper.pdf
+          path: joss/paper.pdf
