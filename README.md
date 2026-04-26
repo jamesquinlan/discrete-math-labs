@@ -70,7 +70,7 @@ discrete-math-labs/
 
 ## Getting Started
 
-### Quick Start for Students:
+### For Students:
 
 1. **Choose your language**: Python or Julia (or use both!)
 2. **Navigate to lab assignments**: `labs/python/` or `labs/julia/`
@@ -83,12 +83,6 @@ discrete-math-labs/
 2. **Use solutions for grading**: Reference implementations in `solutions/`
 3. **Flexible deployment**: Use one language or offer students a choice
 
-### For Students:
-
-1. **Pick your language**: Choose Python or Julia based on course requirements
-2. **Work through labs sequentially**: They build on previous knowledge
-3. **Test your understanding**: Try problems before consulting solutions
-4. **Experiment freely**: Labs encourage exploration and computational thinking
 
 ## Weekly Lab Schedule
 
