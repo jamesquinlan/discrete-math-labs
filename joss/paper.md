@@ -13,7 +13,7 @@ affiliations:
   - name: Department of Computer Science, University of Southern Maine
     index: 1
 date: 03 April 2026
-bibliography: joss/paper.bib
+bibliography: paper.bib
 ---
 
 
