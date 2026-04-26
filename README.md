@@ -70,7 +70,7 @@ discrete-math-labs/
 
 ## Getting Started
 
-### Quick Start (5 minutes):
+### Quick Start for Students:
 
 1. **Choose your language**: Python or Julia (or use both!)
 2. **Navigate to lab assignments**: `labs/python/` or `labs/julia/`
