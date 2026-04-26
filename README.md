@@ -200,7 +200,7 @@ Cengage Learning. ISBN: 978-1-337-69419-3.
 
 We welcome and encourage all contributions to help improve these labs. If you have questions, encounter issues, or require guidance, please reach out.
 
-Before getting started, please check the current list of [issues][(https://github.com/](https://github.com/jamesquinlan/discrete-math-labs/issues?reload=1)) and follow the GitHub flow for contributions.
+Before getting started, please check the current list of [issues](https://github.com/jamesquinlan/discrete-math-labs/issues?reload=1) and follow the GitHub flow for contributions.
 
 
 ## Authors
