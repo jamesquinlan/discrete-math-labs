@@ -202,7 +202,6 @@ We welcome and encourage all contributions to help improve these labs. If you ha
 
 Before getting started, please check the current list of [issues](https://github.com/) and follow the GitHub flow for contributions.
 
-Look for issues labeled ![good first issue](https://img.shields.io/badge/-good%20first%20issue-gold.svg) — these are great entry points for new contributors.
 
 ## Authors
 
