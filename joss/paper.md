@@ -82,7 +82,7 @@ This table maps the course learning objectives to the corresponding ABET student
 The labs can be adapted for collaborative work to address ABET Outcome #5.  
 
 
-## Lab Development
+## Software Design
 
 These labs were developed over several semesters for a four-credit undergraduate discrete mathematics course with an integrated laboratory component. Students use the Google Colab environment to avoid software installation and to support accessibility. The notebooks support both Python and Julia, allowing flexibility in language choice while maintaining a consistent computational framework.
 
