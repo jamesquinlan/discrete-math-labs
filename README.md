@@ -1,5 +1,7 @@
 # Discrete Mathematics Labs: Python & Julia
 
+[![status](https://jose.theoj.org/papers/9e7b33cb8fff8f49edbc9bbb4ea6dc09/status.svg)](https://jose.theoj.org/papers/9e7b33cb8fff8f49edbc9bbb4ea6dc09)
+
 This repository provides a comprehensive collection of lab exercises designed to supplement a standard undergraduate Discrete Mathematics course. The labs are available in both Python and Julia, enabling students to develop intuition and test ideas in a hands-on manner using their preferred language. These labs are meant to support the theoretical foundations of a discrete mathematics course, while offering a more interactive and computational approach to learning.
 
 ## Course Description
